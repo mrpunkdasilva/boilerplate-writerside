@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="16fc355c">
+        <description>Created after removal of "About Lab3-SO2" from Lab3-SO2</description>
+        <accepts>lab3-so2.html</accepts>
+    </rule>
+    <rule id="1b9165c6">
+        <description>Created after removal of "Configuração das Máquinas Virtuais no VirtualBox" from OS2</description>
+        <accepts>Configuração-das-Máquinas-Virtuais-no-VirtualBox.html</accepts>
+    </rule>
+    <rule id="2314a220">
+        <description>Created after removal of "Instalação dos Sistemas Operacionais" from OS2</description>
+        <accepts>Instalação-dos-Sistemas-Operacionais.html</accepts>
+    </rule>
+    <rule id="51cecaf5">
+        <description>Created after removal of "Snapshot das Máquinas Virtuais" from OS2</description>
+        <accepts>Snapshot-das-Máquinas-Virtuais.html</accepts>
+    </rule>
+    <rule id="420f8f78">
+        <description>Created after removal of "Diferenças Entre Sistemas Operacionais Desktop e Servidor" from OS2
+        </description>
+        <accepts>Diferenças-Entre-Sistemas-Operacionais-Desktop-e-Servidor.html</accepts>
+    </rule>
+    <rule id="558b9a0">
+        <description>Created after removal of "Conclusão" from OS2</description>
+        <accepts>Conclusão.html</accepts>
+    </rule>
+    <rule id="5b05c0be">
+        <description>Created after removal of "Referencias" from OS2</description>
+        <accepts>Referencias.html</accepts>
+    </rule>
+</rules>
