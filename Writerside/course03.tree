@@ -2,8 +2,8 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="prog2"
-                 name="Prog2"
-                 start-page="lab-prog2.md">
+<instance-profile id="course03"
+                 name="Course 03"
+                 start-page="lab-algebralinear.md">
 
 </instance-profile>

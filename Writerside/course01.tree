@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="course01"
+                 name="Course 01"
+                 start-page="Conclusao.md">
+
+    <toc-element topic="Referencias.md"/>
+    <toc-element topic="Conclusao.md"/>
+</instance-profile>

@@ -4,17 +4,17 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables></variables>
-    <build-profile instance="os2">
+    <build-profile instance="course02">
         <variables>
             <noindex-content>true</noindex-content>
         </variables>
     </build-profile>
-    <build-profile instance="prog2">
+    <build-profile instance="course01">
         <variables>
             <noindex-content>true</noindex-content>
         </variables>
     </build-profile>
-    <build-profile instance="agl">
+    <build-profile instance="course03">
         <variables>
             <noindex-content>true</noindex-content>
         </variables>
