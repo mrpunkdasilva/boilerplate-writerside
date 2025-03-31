@@ -4,8 +4,9 @@
 
 <instance-profile id="course01"
                  name="Course 01"
-                 start-page="Conclusao.md">
+                 start-page="Atividade.md">
 
-    <toc-element topic="Referencias.md"/>
+    <toc-element topic="Atividade.md"/>
     <toc-element topic="Conclusao.md"/>
+    <toc-element topic="Referencias.md"/>
 </instance-profile>
